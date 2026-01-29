@@ -5,7 +5,7 @@ A modern, high-performance **personal portfolio website** built to showcase my s
 This project focuses on **professional presentation**, **UI/UX quality**, and **real-world frontend & backend integration**.
 
 🔗 **Live Portfolio:**  
-(portfolio-chi-swart-14w2v115cz.vercel.app)
+[portfolio-chi-swart-14w2v115cz.vercel.app](https://portfolio-chi-swart-14w2v115cz.vercel.app)
 ---
 
 ## ✨ Highlights
