@@ -1,22 +1,23 @@
-# 🛒 E-Commerce Web Application (Portfolio)
+# 💼 Portfolio Website
 
-A modern, high-performance **E-commerce web application** built with a clean UI, smooth animations, and scalable architecture.  
-This project demonstrates real-world frontend and backend integration, professional UI/UX design, and production-ready deployment.
+A modern, high-performance **personal portfolio website** built to showcase my skills, projects, and experience with a clean UI, smooth animations, and production-ready architecture.
 
-🔗 **Live Demo:**  
-https://ecommerce-delta-ashy-66.vercel.app
+This project focuses on **professional presentation**, **UI/UX quality**, and **real-world frontend & backend integration**.
 
+🔗 **Live Portfolio:**  
+(portfolio-chi-swart-14w2v115cz.vercel.app)
 ---
 
-## ✨ Features
+## ✨ Highlights
 
-- 🖤 **Dark (OLED-style) modern UI**
-- ⚡ **Fast and responsive design**
-- 🛍️ Product listing & browsing
-- 🔐 User authentication (Login system)
+* Pull Down the Lanyard(ID Card) companent.
+
+- 🖤 **Dark (OLED-style) professional UI**
+- ⚡ Fast, smooth, and optimized performance
+- 🎨 High-quality animations & transitions
+- 🔐 Login system (project showcase / admin-ready)
 - 🔔 Notification-ready architecture
-- 🎨 Smooth animations & transitions
-- 📱 Fully responsive (Mobile / Tablet / Desktop)
+- 📱 Fully responsive across all devices
 - 🚀 Deployed on **Vercel**
 
 ---
@@ -27,13 +28,13 @@ https://ecommerce-delta-ashy-66.vercel.app
 - **React.js**
 - **Vite**
 - **Tailwind CSS**
-- **Modern CSS animations**
-- **Responsive UI principles**
+- **Modern CSS & animation techniques**
+- **Responsive design principles**
 
 ### Backend & Database
 - **Node.js**
-- **API architecture (Serverless)**
-- **MongoDB** (scalable NoSQL database)
+- **Serverless API architecture**
+- **MongoDB**
 
 ### Deployment
 - **Vercel** (Frontend + Serverless APIs)
