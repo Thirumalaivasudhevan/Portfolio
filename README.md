@@ -1,29 +1,44 @@
-# Portfolio Project
+# 🛒 E-Commerce Web Application (Portfolio)
 
-This project is built with Vite, React, TypeScript, and Tailwind CSS.
+A modern, high-performance **E-commerce web application** built with a clean UI, smooth animations, and scalable architecture.  
+This project demonstrates real-world frontend and backend integration, professional UI/UX design, and production-ready deployment.
 
-## Getting Started
+🔗 **Live Demo:**  
+https://ecommerce-delta-ashy-66.vercel.app
 
-To run this project locally, follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository
-git clone <YOUR_GIT_URL>
+## ✨ Features
 
-# Step 2: Navigate to the project directory
-cd <YOUR_PROJECT_NAME>
+- 🖤 **Dark (OLED-style) modern UI**
+- ⚡ **Fast and responsive design**
+- 🛍️ Product listing & browsing
+- 🔐 User authentication (Login system)
+- 🔔 Notification-ready architecture
+- 🎨 Smooth animations & transitions
+- 📱 Fully responsive (Mobile / Tablet / Desktop)
+- 🚀 Deployed on **Vercel**
 
-# Step 3: Install dependencies
-npm install
+---
 
-# Step 4: Start the development server
-npm run dev
-```
+## 🧑‍💻 Tech Stack
 
-## Technologies
+### Frontend
+- **React.js**
+- **Vite**
+- **Tailwind CSS**
+- **Modern CSS animations**
+- **Responsive UI principles**
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+### Backend & Database
+- **Node.js**
+- **API architecture (Serverless)**
+- **MongoDB** (scalable NoSQL database)
+
+### Deployment
+- **Vercel** (Frontend + Serverless APIs)
+
+---
+
+## 🏗️ Project Structure
+
